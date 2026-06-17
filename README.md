@@ -1,4 +1,4 @@
-# SQL-Portfolio-Project
+[sql files.sql](https://github.com/user-attachments/files/29044871/sql.files.sql)# SQL-Portfolio-Project
 ## Project overview
 SQL Portfolio project analyzes customer orders and Health Kits sales using SQL.
 ## Skills Demonstrated
@@ -21,11 +21,12 @@ Analyzes customer ordering patterns and revenue.
 Uses ROW_NUMBER() to assign an order sequence number for each customer's purchases.
 ### Stored Procedure Example
 This is used to insert new customer orders into the database.
+### Files Included
 * 01_Create_Tables.sql
 * 02_Insert_Data.sql
-* 03_Analytical Queries.sql
-* 04_Window_Functions.sql
-* 05_Stored_Procedures.sql
+* 03_Analytical Queries.png
+* 04_Window_Functions.png
+* 05_Stored_Procedures.png
 
- ## Screenshots
- Screenshots of query execution and outputs are included for reference.
+  
+
